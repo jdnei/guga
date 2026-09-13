@@ -1,10 +1,9 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# naiyun奈云机场官方地址(2026年9月12日更新)
-naiyun奈云机场官网地址</br>
-`进⬇️⬇️新官网按⬇️⬇️流程恢复，7.5博主本人年付套餐已恢复`</br>
-账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
+# GugaCloud咕嘎云机场官方地址(2026年9月12日更新)
+GugaCloud咕嘎云机场官网地址</br>
+
 最新地址01：[naiun.space](https://to.iix.im/ny04)</br>
 最新地址02：[naiun.org](https://to.iix.im/ny03)</br>
 官网地址：[naiun.one](https://to.iix.im/ny02)</br>
@@ -21,13 +20,13 @@ naiyun奈云机场官网地址</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 简介
-“奈云”是一款专业的网络链路优化服务，支持全球 86 ~~接入点并且配有[美国家宽](https://github.com/jdnei/naiyun#1%E7%BE%8E%E5%9B%BD)，[香港家宽](https://github.com/jdnei/naiyun#2%E9%A6%99%E6%B8%AF)，[台湾家宽](https://github.com/jdnei/naiyun#3%E5%8F%B0%E6%B9%BE)，[日本家宽](https://github.com/jdnei/naiyun#4%E6%97%A5%E6%9C%AC)，[韩国家宽](https://github.com/jdnei/naiyun#5%E9%9F%A9%E5%9B%BD)，马来西亚家宽~~。旨在为跨境办公、海外学术搜索及影音爱好者提供稳定的网络加速支持。
-## 奈云机场邀请码
+“咕嘎云”是一款专业的网络链路优化服务，支持全球 86 ~~接入点并且配有[美国家宽](https://github.com/jdnei/naiyun#1%E7%BE%8E%E5%9B%BD)，[香港家宽](https://github.com/jdnei/naiyun#2%E9%A6%99%E6%B8%AF)，[台湾家宽](https://github.com/jdnei/naiyun#3%E5%8F%B0%E6%B9%BE)，[日本家宽](https://github.com/jdnei/naiyun#4%E6%97%A5%E6%9C%AC)，[韩国家宽](https://github.com/jdnei/naiyun#5%E9%9F%A9%E5%9B%BD)，马来西亚家宽~~。旨在为跨境办公、海外学术搜索及影音爱好者提供稳定的网络加速支持。
+## 邀请码
 `此邀请码注册用户可免费领取10天/50GB套餐`
 ```bash
 QPB5cCmr
 ```
-## 奈云机场折扣码/优惠码
+## 折扣码/优惠码
 `有效期至 2026 年 8 月 26 日 23:59`
 ```bash
 NAIUN_MY_PARTNER
@@ -160,52 +159,4 @@ NAIUN_MY_PARTNER
 
 </details>
 
-## Recovery
-### 账号套餐恢复教程
-`请复制以下内容发送给客服，并尽量一次性提供完整信息，以便尽快处理`</br>
-`不要在开工单了`</br>
-```bash
-问题类型：（掉单 / 充值未到账 / 套餐异常 ）
-账号：
-（注册邮箱或用户名）
-套餐名称：
-购买/续费时间：
-（请填写具体日期和时间）
-订单金额：
-支付方式：
-（如支付宝、微信）
-问题描述：
-（请详细说明遇到的问题及出现时间）
-附件：
-支付凭证截图
 
-```
-```mermaid
-flowchart TD
-    A["Ctrl+单击<br/>naiun.io<br/>登录新网站"]
-    A --> C[说明：网站数据库暂时是 5 月份]
-    C --> D{登录是否成功？}
-
-    D -->|成功| E[查看套餐是否还在]
-    E --> F{套餐是否还在？}
-
-    F -->|还在| G[等网站恢复即可]
-    F -->|不在| H[网站右下角找在线客服提交材料]
-    H --> I["Ctrl+单击<br/>https://pic.sl.al/<br/>传图-粘贴付款截图链接给在线客服"]
-    I --> J[申请恢复套餐]
-
-    D -->|失败| K[注册新账号]
-    K --> L{注册是否成功？}
-
-    L -->|成功| M[网站右下角找在线客服提交材料]
-    M --> N["Ctrl+单击<br/>https://pic.sl.al/<br/>传图-粘贴付款截图链接发给在线客服"]
-    N --> O[申请恢复套餐和账号]
-
-    L -->|失败| P[未接收到邮箱验证码]
-    P --> Q[等待邮箱供应商风控恢复]
-    Q --> K
-
-    click A "https://naiun.io/#/register?code=KacwlzHN" "打开 naiun.io" _blank
-    click I "https://pic.sl.al" "打开 pic.sl.al" _blank
-    click N "https://pic.sl.al" "打开 pic.sl.al" _blank
-```
