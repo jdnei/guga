@@ -11,6 +11,7 @@ GugaCloud咕嘎云机场官网地址</br>
 官网地址02：[user.gugavpn.one](https://to.iix.im/gu04)</br>
 永久地址：[guga.cloud](https://guga.cloud)</br>
 
+公告
 ---
 
 ![image](https://github.com/jdnei/guga/blob/main/guga/QQ20260914-173502.jpg?raw=true)
