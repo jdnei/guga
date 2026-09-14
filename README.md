@@ -4,7 +4,7 @@
 # GugaCloud咕嘎云机场官方地址(2026年9月12日更新)
 GugaCloud咕嘎云机场官网地址</br>
 
-最新地址01：[user.guga.cloud/](https://to.iix.im/gu01)</br>
+最新地址01：[user.guga.cloud](https://to.iix.im/gu01)</br>
 最新地址02：[user.gugavpn.com](https://to.iix.im/gu02)</br>
 官网地址01：[user.gugayun.com](https://to.iix.im/gu03)</br>
 官网地址02：[user.gugayun.one](https://to.iix.im/gu04)</br>
