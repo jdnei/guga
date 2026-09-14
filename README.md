@@ -4,9 +4,10 @@
 # GugaCloud咕嘎云机场官方地址(2026年9月12日更新)
 GugaCloud咕嘎云机场官网地址</br>
 
-最新地址01：[naiun.space](https://to.iix.im/ny04)</br>
-最新地址02：[naiun.org](https://to.iix.im/ny03)</br>
-官网地址：[naiun.one](https://to.iix.im/ny02)</br>
+最新地址01：[user.guga.cloud/](https://to.iix.im/gu01)</br>
+最新地址02：[user.gugavpn.com](https://to.iix.im/gu02)</br>
+官网地址01：[user.gugayun.com](https://to.iix.im/gu03)</br>
+官网地址02：[user.gugayun.one](https://to.iix.im/gu04)</br>
 永久地址：[naiun.online](https://to.iix.im/ny01)</br>
 
 
