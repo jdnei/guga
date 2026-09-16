@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# GugaCloud咕嘎云机场官方地址(2026年9月15日更新)
+# GugaCloud咕嘎云机场官方地址(2026年9月16日更新)
 GugaCloud咕嘎云机场官网地址</br>
 `NaiYun奈云机场进行品牌升级，现改名为GugaCloud咕嘎云`
 
