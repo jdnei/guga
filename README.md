@@ -33,7 +33,7 @@ GugaCloud咕嘎云机场官网地址</br>
 QPB5cCmr
 ```
 ## 折扣码/优惠码
-`全场7折，MIDAUTUMN2026`
+`全场7折，有效期中秋国庆活动期间`
 ```bash
 MIDAUTUMN2026
 ```
