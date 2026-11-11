@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# GugaCloud VPN Official Website (Updated November 10, 2026)
+# GugaCloud VPN Official Website (Updated November 11, 2026)
 
 GugaCloud VPN Official Website<br>
 
