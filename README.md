@@ -54,11 +54,11 @@ QPB5cCmr
 超高清支持： 优化了对主流 4K/8K 视频流媒体的传输效率，延迟极低。</br>
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
-![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-7737-speed.png?raw=ture)  
+![image](https://github.com/jdnei/guga/blob/main/guga/720945092345speed.png?raw=ture)  
 #### 2.流媒体解锁报告  
-![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-5631-test.png?raw=ture)    
+![image](https://github.com/jdnei/guga/blob/main/guga/490523490580test.png?raw=ture)    
 #### 3.落地入口分析  
-![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-6461-analyze.png?raw=ture)
+![image](https://github.com/jdnei/guga/blob/main/guga/572093450980ana.png?raw=ture)
 #### 4.家宽纯净度分析  
 ##### 1.美国  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234465268.png?raw=ture)  
