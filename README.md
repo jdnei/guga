@@ -25,10 +25,9 @@ GugaCloud咕嘎云机场官网地址</br>
 [机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
-## 简介
-“咕嘎云”是一款专业的网络链路优化服务，支持全球 86 ~~接入点并且配有[美国家宽](https://github.com/jdnei/naiyun#1%E7%BE%8E%E5%9B%BD)，[香港家宽](https://github.com/jdnei/naiyun#2%E9%A6%99%E6%B8%AF)，[台湾家宽](https://github.com/jdnei/naiyun#3%E5%8F%B0%E6%B9%BE)，[日本家宽](https://github.com/jdnei/naiyun#4%E6%97%A5%E6%9C%AC)，[韩国家宽](https://github.com/jdnei/naiyun#5%E9%9F%A9%E5%9B%BD)，马来西亚家宽~~。旨在为跨境办公、海外学术搜索及影音爱好者提供稳定的网络加速支持。
+
 ## 邀请码
-`此邀请码注册用户可免费领取10天/50GB套餐`
+`此邀请码注册用户可免费领取10天/50GB套餐(此活动官方随时取消)`
 ```bash
 QPB5cCmr
 ```
@@ -37,21 +36,33 @@ QPB5cCmr
 ```bash
 2026DOUBLE11
 ```
-免费期结束后，新户首单年费可用一次折扣码，可~~168元/年~~，XX元/年，优惠购买一年使用时间。  
+新户首单年费可用一次折扣码，可~~168元/年~~，XX元/年，优惠购买一年使用时间。  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/photo_2026-07-07_10-46-17.jpg?raw=true)
-## 套餐
-| 套餐名称          | 价格        | 计费方式   | 每月流量/总流量 | 使用期限     | 支持设备数 | 速度上限      | 专线网络 | 流媒体解锁 | 机房专柜 | 账号分享 | 备注                 |
-| --------------- | ----------- | -------- | ------------- | -------- | -------- | ----------- | -------- | -------- | -------- | -------- | -------------------- |
-| Basic-基础套餐(特惠) | ¥168.00     | 每年     | 168G          | 每年     | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 订单日自动重置         |
-| Pro-进阶套餐      | ¥32.30      | 每月     | 388G          | 每月     | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 订单日自动重置         |
-| Max-专业套餐      | ¥49.30      | 每月     | 788G          | 每月     | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 订单日自动重置         |
-| 280G [按量计费]   | ¥138.00      | 一次性   | 280G          | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加 |
-| 680G [按量计费]   | ¥258.00     | 一次性   | 680G          | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加 |
-
+## 简介
+咕嘎云（GugaCloud）机场是一家主打高速专线网络的机场服务商，采用自有机房及全球多地接入点，提供低延迟、高带宽的跨境网络加速服务。支持Windows、macOS、iOS、Android等主流平台，提供月度流量重置及不限时流量套餐，适合日常上网、高清视频、AI工具、跨境办公及多设备用户使用。
 ## 优势
-全球覆盖： 部署 86 个全球 POP 接入点，涵盖东南亚、欧美及部分稀缺地区。</br>
-企业级链路： 采用 Global Accelerator 国际专线技术，全节点 SLA 高可用保障。</br>
-超高清支持： 优化了对主流 4K/8K 视频流媒体的传输效率，延迟极低。</br>
+咕嘎云（GugaCloud）机场主打专线传输与高带宽网络，商家标称峰值速率最高5000Mbps，支持Netflix、Disney+、ChatGPT等流媒体及AI服务。套餐涵盖168GB至788GB月流量，支持5至15台设备同时在线，另有不限时流量包。年付套餐价格相对实惠，兼顾轻度使用、家庭共享及重度下载需求。
+
+## 套餐
+| 套餐             | 流量        | 价格                    | 付款周期       | 同时在线设备 | 速率             | 线路类型            | 流媒体 / AI 解锁               | 特色 / 备注                     |
+| -------------- | --------- | --------------------- | ---------- | ------ | -------------- | --------------- | ------------------------- | --------------------------- |
+| Basic 基础套餐（特惠） | 168GB / 月 | ¥168 / 年（约¥14/月）      | 年付，每月订单日重置 | 5 台    | 不限速，峰值5000Mbps | 专线网络、自有机房、全球接入点 | Netflix、Disney+、ChatGPT 等 | 最畅销；全平台支持；一人一号，禁止公开分享       |
+| Pro 进阶套餐       | 388GB / 月 | ¥387.60 / 年（¥32.30/月） | 年付，每月订单日重置 | 10 台   | 不限速，峰值5000Mbps | 专线网络、自有机房、全球接入点 | Netflix、Disney+、ChatGPT 等 | 全平台支持；适合多设备及中高流量使用；禁止公开分享账号 |
+| Max 专业套餐       | 788GB / 月 | ¥591.60 / 年（¥49.30/月） | 年付，每月订单日重置 | 15 台   | 不限速，峰值5000Mbps | 专线网络、自有机房、全球接入点 | Netflix、Disney+、ChatGPT 等 | 全平台支持；适合重度用户；禁止公开分享账号       |
+| 280G 按量计费      | 280GB（总量） | ¥138                  | 一次性 / 不限时  | 5 台    | 不限速，峰值5000Mbps | 专线网络、自有机房、全球接入点 | Netflix、Disney+、ChatGPT 等 | 流量用完为止；多次购买无法叠加流量；禁止公开分享账号  |
+| 680G 按量计费      | 680GB（总量） | ¥258                  | 一次性 / 不限时  | 5 台    | 不限速，峰值5000Mbps | 专线网络、自有机房、全球接入点 | Netflix、Disney+、ChatGPT 等 | 流量用完为止；多次购买无法叠加流量；禁止公开分享账号  |
+
+### 套餐说明
+
+- **流量重置：** Basic、Pro、Max 套餐每月订单日自动重置流量。
+- **不限时流量包：** 280G 和 680G 为一次性购买，流量用完为止，多次购买无法叠加流量。
+- **网络线路：** 所有套餐均支持专线网络，商家标称峰值速率最高5000Mbps。
+- **设备限制：** Basic支持5台、Pro支持10台、Max支持15台、按量计费套餐支持5台同时在线。
+- **流媒体与AI：** 商家标注支持Netflix、Disney+、ChatGPT等服务。
+- **账号规则：** 一人一号，禁止公开分享账号。
+
+**注意：** Basic 套餐年付 ¥168，实际折合 ¥14/月，与网页标注的 ¥13.81/月不一致，表格采用正确折算金额。
+
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
 ![image](https://github.com/jdnei/guga/blob/main/guga/720945092345speed.png?raw=ture)  
@@ -59,110 +70,3 @@ QPB5cCmr
 ![image](https://github.com/jdnei/guga/blob/main/guga/490523490580test.png?raw=ture)    
 #### 3.落地入口分析  
 ![image](https://github.com/jdnei/guga/blob/main/guga/572093450980ana.png?raw=ture)
-#### 4.家宽纯净度分析  
-##### 1.美国  
-![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234465268.png?raw=ture)  
-##### 2.香港  
-![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234508008.png?raw=ture)  
-##### 3.台湾  
-![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234555188.png?raw=ture)  
-##### 4.日本  
-![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234584653.png?raw=ture)  
-##### 5.韩国  
-![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234622676.png?raw=ture)  
-#### 5.服务器状态整理
-<details>
-<summary><strong>点击展开服务器列表</strong></summary>   
-    
-| 分组  | 名称                                           | 协议     | 倍率   | 状态  | 负载  |
-| --- | -------------------------------------------- | ------ | ---- | --- | --- |
-| HK  | 🇭🇰 HKG·香港01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| HK  | 🇭🇰 HKG·香港02 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| HK  | 🇭🇰 HKG·香港03 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| HK  | 🇭🇰 HKG·香港04 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| HK  | 🇭🇰 HKG·香港05 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| HK  | 🇭🇰 HKG·香港01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| HK  | 🇭🇰 HKG·香港02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| HK  | 🇭🇰 HKG·香港03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| HK  | 🇭🇰 HKG·香港05 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| HK  | 🇭🇰 HKG·香港06 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| HK  | 🇭🇰 HKG·香港07 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| HK  | 🇭🇰 HKG·香港08 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| HK  | 🇭🇰 HKG·香港09 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| HK  | 🇭🇰 HKG·香港10 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| HK  | 🇭🇰 HKG·香港ISP-家宽 ³ˣ                         | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇺🇸 USA·美国01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| US  | 🇺🇸 USA·美国02 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| US  | 🇺🇸 USA·美国03 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| US  | 🇺🇸 USA·美国04 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| US  | 🇺🇸 USA·美国05 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| US  | 🇺🇸 USA·美国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇺🇸 USA·美国02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇺🇸 USA·美国03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇺🇸 USA·美国05 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇺🇸 USA·美国06 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇺🇸 USA·美国07 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇺🇸 USA·美国08 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇺🇸 USA·美国09 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇺🇸 USA·美国10 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇺🇸 USA·美国ISP-家宽 ³ˣ                         | TROJAN | x3.0 | 在线  | 56% |
-| US  | 🇹🇼 TWN·台湾02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| TW  | 🇹🇼 TWN·台湾01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| TW  | 🇹🇼 TWN·台湾02 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| TW  | 🇹🇼 TWN·台湾01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| TW  | 🇹🇼 TWN·台湾03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| TW  | 🇹🇼 TWN·台湾05 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| TW  | 🇹🇼 TWN·台湾06 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| TW  | 🇹🇼 TWN·台湾07 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| TW  | 🇹🇼 TWN·台湾08 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| TW  | 🇹🇼 TWN·台湾ISP-家宽 ³ˣ                         | TROJAN | x3.0 | 在线  | 56% |
-| SG  | 🇸🇬 SGP·新加坡01 ¹ˣ                            | TROJAN | x1.0 | 在线  | 11% |
-| SG  | 🇸🇬 SGP·新加坡02 ¹ˣ                            | TROJAN | x1.0 | 在线  | 11% |
-| SG  | 🇸🇬 SGP·新加坡01 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
-| SG  | 🇸🇬 SGP·新加坡02 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
-| SG  | 🇸🇬 SGP·新加坡03 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
-| SG  | 🇸🇬 SGP·新加坡05 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
-| SG  | 🇸🇬 SGP·新加坡06 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
-| JP  | 🇯🇵 JPN·日本01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| JP  | 🇯🇵 JPN·日本02 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| JP  | 🇯🇵 JPN·日本01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| JP  | 🇯🇵 JPN·日本02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| JP  | 🇯🇵 JPN·日本03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| JP  | 🇯🇵 JPN·日本05 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| JP  | 🇯🇵 JPN·日本06 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| JP  | 🇯🇵 JPN·日本ISP-家宽 ³ˣ                         | TROJAN | x3.0 | 在线  | 56% |
-| KR  | 🇰🇷 KOR·韩国01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| KR  | 🇰🇷 KOR·韩国02 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
-| KR  | 🇰🇷 KOR·韩国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| KR  | 🇰🇷 KOR·韩国02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| KR  | 🇰🇷 KOR·韩国03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| KR  | 🇰🇷 KOR·韩国05 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| KR  | 🇰🇷 KOR·韩国06 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| KR  | 🇰🇷 KOR·韩国ISP-家宽 ³ˣ                         | TROJAN | x3.0 | 在线  | 56% |
-| TH  | 🇹🇭 THA·泰国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| TH  | 🇹🇭 THA·泰国02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| TH  | 🇹🇭 THA·泰国03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| MY  | 🇲🇾 MYS·马来西亚01 ³ˣ                           | TROJAN | x3.0 | 在线  | 56% |
-| MY  | 🇲🇾 MYS·马来西亚ISP-家宽 ³ˣ                       | TROJAN | x3.0 | 在线  | 56% |
-| VN  | 🇻🇳 VNM·越南01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| PH  | 🇵🇭 PHL·菲律宾01 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
-| ID  | 🇮🇩 IDN·印度尼西亚01 ³ˣ                          | TROJAN | x3.0 | 在线  | 56% |
-| TR  | 🇹🇷 TUR·土耳其01 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
-| TR  | 🇹🇷 TUR·土耳其02 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
-| TR  | 🇹🇷 TUR·土耳其03 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
-| GB  | 🇬🇧 GBR·英国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| GB  | 🇬🇧 GBR·英国02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| GB  | 🇬🇧 GBR·英国03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| DE  | 🇩🇪 DEU·德国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| FR  | 🇫🇷 FRA·法国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| BR  | 🇧🇷 BRA·巴西01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
-| AE  | 🇦🇪 ARE·阿联酋01 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
-| 未分组 | 🇨🇳如遇节点失效，请尝试更新订阅                           | VMESS  | x3.0 | 维护中 | —   |
-| 未分组 | 🇨🇳永久地址：[WWW.V2NY.COM](https://github.com/jdnei/naiyun) | VMESS  | x3.0 | 维护中 | —   |
-| 未分组 | 🇨🇳大陆访问：v13.v2ny.me                         | VMESS  | x3.0 | 维护中 | —   |
-| 未分组 | 🇨🇳[官方]👇Telegram群组👇                       | VMESS  | x3.0 | 维护中 | —   |
-| 未分组 | 🇨🇳欢迎加入👉@V2NAIUN👈                         | VMESS  | x3.0 | 维护中 | —   |
-
-</details>
-
-
